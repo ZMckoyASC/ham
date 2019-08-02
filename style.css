@@ -1,0 +1,10 @@
+.estelle{
+    align-content:center;
+    justify-content:center;
+    text-align:center;
+    border-style: dashed;
+    width:40%;
+}
+#button{
+    border-style: dotted;
+}
